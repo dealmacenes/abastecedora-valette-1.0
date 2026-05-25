@@ -6,7 +6,7 @@ return (
 <div className='bg-[#102a5c] text-white text-xs py-2 text-center'>Producción propia • Atención mayorista y minorista</div>
 <nav className='max-w-6xl mx-auto px-4 py-4 flex items-center justify-between'>
 <Link to='/' className='flex items-center gap-3'>
-<img src='/logo192.png' alt='Valette' className='w-14 h-14 object-contain'/>
+<img src='/miniatura.jpg' alt='Valette' className='w-14 h-14 object-contain'/>
 <div>
 <p className='font-black text-[#102a5c] leading-none'>ABASTECEDORA</p>
 <p className='font-black text-[#e53338] leading-none'>VALETTE</p>
